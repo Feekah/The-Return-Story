@@ -2,6 +2,10 @@
 
 Objectives:
 
+Perform Exploratory data analysis
+
+Replace null values
+
 Identify Returns and cancellation Trends
 
 Classify returns into cancellations and Zero-priced returns
